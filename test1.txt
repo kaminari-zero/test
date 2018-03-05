@@ -1,4 +1,4 @@
-hhaahhahhahhah 
+﻿hhaahhahhahhah 
 
 next to  sabi
 
@@ -15,3 +15,6 @@ dfkdjfd
 Ìá½»²âÊÔ
 
 乱码???????
+
+
+为啥我提交上去的是乱码
